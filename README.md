@@ -8,7 +8,10 @@ Usage
 Add in ejabberd.yaml
 
 modules:
-  mod_offline_post:
-    post_url: "http://..."
-    auth_token: "AUTHENTICATION_TOKEN"
+
+     mod_offline_post:
+  
+     post_url: "http://..."
+    
+     auth_token: "AUTHENTICATION_TOKEN"
 Credits
